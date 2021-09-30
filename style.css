@@ -1,0 +1,36 @@
+.titulo{
+    font-size: 50px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;   
+}
+
+.pagina{
+    background-image: url(image/termometro-mercurio.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.subtitulo{
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.informe{
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.botao{
+    display: block;
+}
+
+
+
+
+
